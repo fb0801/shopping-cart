@@ -12,3 +12,7 @@ https://flatlogic.com/blog/material-ui-icons-in-react/
 https://www.smashingmagazine.com/2020/07/styled-components-react/
 
 https://www.toptal.com/developers/gitignore/
+
+https://www.freecodecamp.org/news/styled-components-in-react/
+
+https://fakestoreapi.com/
